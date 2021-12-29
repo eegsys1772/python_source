@@ -1,0 +1,3 @@
+set FLASK_APP=hello.py
+
+fa826f7a567d5cf49b984d999f1b0e90
